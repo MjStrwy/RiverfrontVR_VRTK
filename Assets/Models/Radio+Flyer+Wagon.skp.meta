@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: 267ddaa3f54d29f4385ac33a14133905
+timeCreated: 1490307927
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000
+  assetHash:
+    serializedVersion: 2
+    Hash: e975b571b194feccbeac43d1d98908fe
+  longitude: -117.41896182186218
+  latitude: 47.66048966758942
+  northCorrection: 359.69027375924367
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 13.937484, y: 2.1025245, z: 1.477179}
+      lookAt: {x: -1.9981678, y: 1.0962578, z: 0.46584612}
+      up: {x: -0.06276781, y: 0.99802023, z: -0.0039834674}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 13.937484, y: 2.1025245, z: 1.477179}
+        lookAt: {x: -1.9981678, y: 1.0962578, z: 0.46584612}
+        up: {x: -0.06276781, y: 0.99802023, z: -0.0039834674}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 1
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bar1
+    100002: Google Earth Terrain
+    100004: Group 5
+    100006: Handle
+    100008: Handle 1
+    100010: //RootNode
+    100012: Railing
+    100014: Railing 1
+    100016: Wheel
+    100018: Wheel 1
+    100020: Wheel 2
+    100022: Wheel 3
+    400000: Bar1
+    400002: Google Earth Terrain
+    400004: Group 5
+    400006: Handle
+    400008: Handle 1
+    400010: //RootNode
+    400012: Railing
+    400014: Railing 1
+    400016: Wheel
+    400018: Wheel 1
+    400020: Wheel 2
+    400022: Wheel 3
+    2300000: Bar1
+    2300002: Google Earth Terrain
+    2300004: Group 5
+    2300006: Handle
+    2300008: Handle 1
+    2300010: Railing
+    2300012: Railing 1
+    2300014: Wheel
+    2300016: Wheel 1
+    2300018: Wheel 2
+    2300020: Wheel 3
+    3300000: Bar1
+    3300002: Google Earth Terrain
+    3300004: Group 5
+    3300006: Handle
+    3300008: Handle 1
+    3300010: Railing
+    3300012: Railing 1
+    3300014: Wheel
+    3300016: Wheel 1
+    3300018: Wheel 2
+    3300020: Wheel 3
+    4300000: Mesh Google Earth Terrain
+    4300002: Mesh Group 5
+    4300004: Mesh Bar1
+    4300006: Mesh Wheel
+    4300008: Mesh Railing
+    4300010: Mesh Handle
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

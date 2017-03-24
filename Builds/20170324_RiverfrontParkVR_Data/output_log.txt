@@ -1,0 +1,84 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon (TM) R9 390 Series (ID=0x67b0)
+    Vendor:   ATI
+    VRAM:     8169 MB
+    Driver:   21.19.137.514
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Projects\VRprojects\riverfrontParkVR_VRTK\Builds\20170324_RiverfrontParkVR_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Projects\VRprojects\riverfrontParkVR_VRTK\Builds\20170324_RiverfrontParkVR_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Projects\VRprojects\riverfrontParkVR_VRTK\Builds\20170324_RiverfrontParkVR_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Projects\VRprojects\riverfrontParkVR_VRTK\Builds\20170324_RiverfrontParkVR_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Projects\VRprojects\riverfrontParkVR_VRTK\Builds\20170324_RiverfrontParkVR_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Projects\VRprojects\riverfrontParkVR_VRTK\Builds\20170324_RiverfrontParkVR_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Projects\VRprojects\riverfrontParkVR_VRTK\Builds\20170324_RiverfrontParkVR_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Projects\VRprojects\riverfrontParkVR_VRTK\Builds\20170324_RiverfrontParkVR_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Projects\VRprojects\riverfrontParkVR_VRTK\Builds\20170324_RiverfrontParkVR_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Projects\VRprojects\riverfrontParkVR_VRTK\Builds\20170324_RiverfrontParkVR_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\Projects\VRprojects\riverfrontParkVR_VRTK\Builds\20170324_RiverfrontParkVR_Data\Managed\UnityEngine.VR.dll (this message is harmless)
+Loading D:\Projects\VRprojects\riverfrontParkVR_VRTK\Builds\20170324_RiverfrontParkVR_Data\Managed\UnityEngine.VR.dll into Unity Child Domain
+- Completed reload, in  0.238 seconds
+Platform assembly: D:\Projects\VRprojects\riverfrontParkVR_VRTK\Builds\20170324_RiverfrontParkVR_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Projects\VRprojects\riverfrontParkVR_VRTK\Builds\20170324_RiverfrontParkVR_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+OpenVR initialized!
+ 
+(Filename:  Line: 381)
+
+UnloadTime: 1.127042 ms
+Connected to lighthouse:LHR-CF4A38C1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 10b4 -> priority: 1 
+  Thread -> id: bf0 -> priority: 1 
+Scene changed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.196752 ms
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 903.
+Total: 0.826616 ms (FindLiveObjects: 0.108805 ms CreateObjectMapping: 0.027774 ms MarkObjects: 0.556513 ms  DeleteObjects: 0.132503 ms)
+
+Scene changed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'ObjectDataUI') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.715263 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1028.
+Total: 0.650285 ms (FindLiveObjects: 0.094026 ms CreateObjectMapping: 0.023442 ms MarkObjects: 0.494848 ms  DeleteObjects: 0.036948 ms)
+
+Show dialog
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Show dialog
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Show dialog
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Show dialog
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OpenVR Shutdown
+ 
+(Filename:  Line: 815)
+
