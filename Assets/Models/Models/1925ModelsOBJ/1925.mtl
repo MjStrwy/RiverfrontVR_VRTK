@@ -1,0 +1,4599 @@
+newmtl CityEngineMaterial_183
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_2.jpg
+map_Kd flatRoof_2.jpg
+
+newmtl CityEngineMaterial_6
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Service_000.jpg
+
+newmtl CityEngineMaterial_351
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_17.jpg
+map_Kd flatRoof_17.jpg
+
+newmtl CityEngineMaterial_175
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_10.jpg
+map_Kd flatRoof_10.jpg
+
+newmtl CityEngineMaterial_35
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Mercantile_017.jpg
+
+newmtl CityEngineMaterial_392
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t005_Mercantile_001.jpg
+
+newmtl CityEngineMaterial_115
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_9.jpg
+map_Kd flatRoof_9.jpg
+
+newmtl CityEngineMaterial_312
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f008_t008_Residential_001.jpg
+
+newmtl CityEngineMaterial_296
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Industry_001.jpg
+
+newmtl CityEngineMaterial_216
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_17.jpg
+map_Kd flatRoof_17.jpg
+
+newmtl CityEngineMaterial_218
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_3.jpg
+map_Kd flatRoof_3.jpg
+
+newmtl CityEngineMaterial_185
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_29.jpg
+map_Kd flatRoof_29.jpg
+
+newmtl CityEngineMaterial_397
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 ceramicRoof_6.jpg
+map_Kd ceramicRoof_6.jpg
+
+newmtl CityEngineMaterial_67
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Service_010.jpg
+
+newmtl CityEngineMaterial_78
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Service_011.jpg
+
+newmtl CityEngineMaterial_191
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_11.jpg
+map_Kd flatRoof_11.jpg
+
+newmtl CityEngineMaterial_158
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f002_t003_Mercantile_001.jpg
+
+newmtl CityEngineMaterial_16
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t004_Educational_000.jpg
+
+newmtl CityEngineMaterial_329
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_39.jpg
+map_Kd flatRoof_39.jpg
+
+newmtl CityEngineMaterial_30
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Service_008.jpg
+
+newmtl CityEngineMaterial_214
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_2.jpg
+map_Kd flatRoof_2.jpg
+
+newmtl CityEngineMaterial_117
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_32.jpg
+map_Kd flatRoof_32.jpg
+
+newmtl CityEngineMaterial_326
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_38.jpg
+map_Kd flatRoof_38.jpg
+
+newmtl CityEngineMaterial_137
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t006_Industry_000.jpg
+
+newmtl CityEngineMaterial_61
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t006_Mercantile_014.jpg
+
+newmtl CityEngineMaterial_42
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t009_Office_000.jpg
+
+newmtl CityEngineMaterial_333
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_37.jpg
+map_Kd flatRoof_37.jpg
+
+newmtl CityEngineMaterial_264
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_38.jpg
+map_Kd flatRoof_38.jpg
+
+newmtl CityEngineMaterial_162
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_36.jpg
+map_Kd flatRoof_36.jpg
+
+newmtl CityEngineMaterial_7
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_17.jpg
+map_Kd flatRoof_17.jpg
+
+newmtl CityEngineMaterial_95
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t006_Mercantile_017.jpg
+
+newmtl CityEngineMaterial_93
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_7.jpg
+map_Kd flatRoof_7.jpg
+
+newmtl CityEngineMaterial_122
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_21.jpg
+map_Kd flatRoof_21.jpg
+
+newmtl CityEngineMaterial_147
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t005_Residential_003.jpg
+
+newmtl CityEngineMaterial_73
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f003_t003_Residential_006.jpg
+
+newmtl CityEngineMaterial_97
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t003_Service_000.jpg
+
+newmtl CityEngineMaterial_341
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t003_Educational_000.jpg
+
+newmtl CityEngineMaterial_143
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_20.jpg
+map_Kd flatRoof_20.jpg
+
+newmtl CityEngineMaterial_3
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Service_005.jpg
+
+newmtl CityEngineMaterial_293
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t006_Transport_001.jpg
+
+newmtl CityEngineMaterial_230
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_18.jpg
+map_Kd flatRoof_18.jpg
+
+newmtl CityEngineMaterial_34
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_1.jpg
+map_Kd flatRoof_1.jpg
+
+newmtl CityEngineMaterial_394
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t001_Mercantile_000.jpg
+
+newmtl CityEngineShapeMaterial
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+
+newmtl CityEngineMaterial_189
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Mercantile_007.jpg
+
+newmtl CityEngineMaterial_102
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_33.jpg
+map_Kd flatRoof_33.jpg
+
+newmtl CityEngineMaterial_299
+illum 3
+Ka 0 0 0
+Kd 0.6 0.6 0.6
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_25.jpg
+map_Kd flatRoof_25.jpg
+
+newmtl CityEngineMaterial_81
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f001_t002_Residential_006.jpg
+
+newmtl CityEngineMaterial_14
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f001_t002_Residential_004.jpg
+
+newmtl CityEngineMaterial_140
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Educational_001.jpg
+
+newmtl CityEngineMaterial_370
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t001_Mercantile_001.jpg
+
+newmtl CityEngineMaterial_263
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t004_Mercantile_010.jpg
+
+newmtl CityEngineMaterial_338
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_31.jpg
+map_Kd flatRoof_31.jpg
+
+newmtl CityEngineMaterial_334
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_39.jpg
+map_Kd flatRoof_39.jpg
+
+newmtl CityEngineMaterial_306
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_3.jpg
+map_Kd flatRoof_3.jpg
+
+newmtl CityEngineMaterial_355
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f004_t006_Industry_005.jpg
+
+newmtl CityEngineMaterial_386
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_029.jpg
+
+newmtl CityEngineMaterial_319
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_16.jpg
+map_Kd flatRoof_16.jpg
+
+newmtl CityEngineMaterial_280
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_023.jpg
+
+newmtl CityEngineMaterial_403
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t002_Utility_000.jpg
+
+newmtl CityEngineMaterial_317
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f004_t006_Industry_009.jpg
+
+newmtl CityEngineMaterial_251
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_37.jpg
+map_Kd flatRoof_37.jpg
+
+newmtl CityEngineMaterial_292
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_035.jpg
+
+newmtl CityEngineMaterial_164
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f002_t002_Residential_009.jpg
+
+newmtl CityEngineMaterial_274
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_017.jpg
+
+newmtl CityEngineMaterial_64
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_34.jpg
+map_Kd flatRoof_34.jpg
+
+newmtl CityEngineMaterial_204
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_23.jpg
+map_Kd flatRoof_23.jpg
+
+newmtl CityEngineMaterial_36
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f001_t002_Residential_016.jpg
+
+newmtl CityEngineMaterial_28
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f001_t002_Residential_017.jpg
+
+newmtl CityEngineMaterial_33
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f001_t002_Residential_015.jpg
+
+newmtl CityEngineMaterial_62
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f002_t002_Residential_000.jpg
+
+newmtl CityEngineMaterial_9
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_16.jpg
+map_Kd flatRoof_16.jpg
+
+newmtl CityEngineMaterial_141
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_8.jpg
+map_Kd flatRoof_8.jpg
+
+newmtl CityEngineMaterial_153
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_021.jpg
+
+newmtl CityEngineMaterial_325
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_40.jpg
+map_Kd flatRoof_40.jpg
+
+newmtl CityEngineMaterial
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t003_Office_000.jpg
+
+newmtl CityEngineMaterial_100
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_20.jpg
+map_Kd flatRoof_20.jpg
+
+newmtl CityEngineMaterial_283
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_30.jpg
+map_Kd flatRoof_30.jpg
+
+newmtl CityEngineMaterial_381
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t002_Mercantile_002.jpg
+
+newmtl CityEngineMaterial_234
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_36.jpg
+map_Kd flatRoof_36.jpg
+
+newmtl CityEngineMaterial_169
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f004_t006_Educational_001.jpg
+
+newmtl CityEngineMaterial_151
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_020.jpg
+
+newmtl CityEngineMaterial_74
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 ceramicRoof_5.jpg
+map_Kd ceramicRoof_5.jpg
+
+newmtl CityEngineMaterial_250
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t003_Mercantile_002.jpg
+
+newmtl CityEngineMaterial_239
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t003_Mercantile_009.jpg
+
+newmtl CityEngineMaterial_58
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t004_Mercantile_001.jpg
+
+newmtl CityEngineMaterial_223
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t007_Office_000.jpg
+
+newmtl CityEngineMaterial_298
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f002_t011_Service_000.jpg
+
+newmtl CityEngineMaterial_366
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_23.jpg
+map_Kd flatRoof_23.jpg
+
+newmtl CityEngineMaterial_399
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_7.jpg
+map_Kd flatRoof_7.jpg
+
+newmtl CityEngineMaterial_217
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t006_Office_000.jpg
+
+newmtl CityEngineMaterial_236
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t006_Office_002.jpg
+
+newmtl CityEngineMaterial_235
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_15.jpg
+map_Kd flatRoof_15.jpg
+
+newmtl CityEngineMaterial_241
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t001_Utility_001.jpg
+
+newmtl CityEngineMaterial_127
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f002_t002_Office_004.jpg
+
+newmtl CityEngineMaterial_371
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t002_Agricultural_000.jpg
+
+newmtl CityEngineMaterial_27
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Office_005.jpg
+
+newmtl CityEngineMaterial_65
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t003_Residential_004.jpg
+
+newmtl CityEngineMaterial_330
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t005_Assembly_000.jpg
+
+newmtl CityEngineMaterial_207
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f002_t002_Residential_001.jpg
+
+newmtl CityEngineMaterial_19
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t003_Residential_002.jpg
+
+newmtl CityEngineMaterial_10
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t006_Mercantile_001.jpg
+
+newmtl CityEngineMaterial_373
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f003_t002_Residential_003.jpg
+
+newmtl CityEngineMaterial_154
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f001_t002_Storage_000.jpg
+
+newmtl CityEngineMaterial_161
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t002_Service_000.jpg
+
+newmtl CityEngineMaterial_352
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_19.jpg
+map_Kd flatRoof_19.jpg
+
+newmtl CityEngineMaterial_247
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t002_Mercantile_003.jpg
+
+newmtl CityEngineMaterial_174
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Mercantile_019.jpg
+
+newmtl CityEngineMaterial_80
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t003_Industry_000.jpg
+
+newmtl CityEngineMaterial_46
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f003_t005_Assembly_001.jpg
+
+newmtl CityEngineMaterial_242
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f003_t003_Residential_001.jpg
+
+newmtl CityEngineMaterial_291
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_7.jpg
+map_Kd flatRoof_7.jpg
+
+newmtl CityEngineMaterial_287
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f004_t006_Mercantile_004.jpg
+
+newmtl CityEngineMaterial_5
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_18.jpg
+map_Kd flatRoof_18.jpg
+
+newmtl CityEngineMaterial_113
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_22.jpg
+map_Kd flatRoof_22.jpg
+
+newmtl CityEngineMaterial_388
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_6.jpg
+map_Kd flatRoof_6.jpg
+
+newmtl CityEngineMaterial_240
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f003_t003_Residential_003.jpg
+
+newmtl CityEngineMaterial_203
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t003_Mercantile_003.jpg
+
+newmtl CityEngineMaterial_268
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t003_Mercantile_000.jpg
+
+newmtl CityEngineMaterial_60
+illum 3
+Ka 0 0 0
+Kd 0.6 0.6 0.6
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_24.jpg
+map_Kd flatRoof_24.jpg
+
+newmtl CityEngineMaterial_148
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f002_t002_Residential_011.jpg
+
+newmtl CityEngineMaterial_253
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t002_Mercantile_005.jpg
+
+newmtl CityEngineMaterial_363
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t006_Mercantile_012.jpg
+
+newmtl CityEngineMaterial_305
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t006_Mercantile_015.jpg
+
+newmtl CityEngineMaterial_107
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f002_t002_Residential_013.jpg
+
+newmtl CityEngineMaterial_232
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_33.jpg
+map_Kd flatRoof_33.jpg
+
+newmtl CityEngineMaterial_187
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Mercantile_024.jpg
+
+newmtl CityEngineMaterial_228
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_12.jpg
+map_Kd flatRoof_12.jpg
+
+newmtl CityEngineMaterial_184
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t006_Mercantile_011.jpg
+
+newmtl CityEngineMaterial_314
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_6.jpg
+map_Kd flatRoof_6.jpg
+
+newmtl CityEngineMaterial_269
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_23.jpg
+map_Kd flatRoof_23.jpg
+
+newmtl CityEngineMaterial_79
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_19.jpg
+map_Kd flatRoof_19.jpg
+
+newmtl CityEngineMaterial_123
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_006.jpg
+
+newmtl CityEngineMaterial_350
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f003_t007_Public_000.jpg
+
+newmtl CityEngineMaterial_59
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f002_t002_Educational_000.jpg
+
+newmtl CityEngineMaterial_245
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f002_t001_Mercantile_015.jpg
+
+newmtl CityEngineMaterial_160
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f002_t002_Residential_004.jpg
+
+newmtl CityEngineMaterial_178
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_38.jpg
+map_Kd flatRoof_38.jpg
+
+newmtl CityEngineMaterial_177
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f002_t002_Residential_007.jpg
+
+newmtl CityEngineMaterial_66
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f012_t011_Residential_000.jpg
+
+newmtl CityEngineMaterial_248
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f002_t002_Residential_006.jpg
+
+newmtl CityEngineMaterial_136
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t002_Residential_000.jpg
+
+newmtl CityEngineMaterial_238
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f003_t005_Assembly_000.jpg
+
+newmtl CityEngineMaterial_55
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_9.jpg
+map_Kd flatRoof_9.jpg
+
+newmtl CityEngineMaterial_89
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t006_Mercantile_005.jpg
+
+newmtl CityEngineMaterial_94
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t006_Mercantile_003.jpg
+
+newmtl CityEngineMaterial_176
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t003_Mercantile_003.jpg
+
+newmtl CityEngineMaterial_354
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f004_t003_Residential_000.jpg
+
+newmtl CityEngineMaterial_2
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_39.jpg
+map_Kd flatRoof_39.jpg
+
+newmtl CityEngineMaterial_157
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Service_015.jpg
+
+newmtl CityEngineMaterial_308
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t004_Utility_000.jpg
+
+newmtl CityEngineMaterial_209
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t003_Transport_000.jpg
+
+newmtl CityEngineMaterial_226
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_5.jpg
+map_Kd flatRoof_5.jpg
+
+newmtl CityEngineMaterial_186
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Office_002.jpg
+
+newmtl CityEngineMaterial_146
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_30.jpg
+map_Kd flatRoof_30.jpg
+
+newmtl CityEngineMaterial_11
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_27.jpg
+map_Kd flatRoof_27.jpg
+
+newmtl CityEngineMaterial_110
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f004_t005_Public_000.jpg
+
+newmtl CityEngineMaterial_398
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 ceramicRoof_7.jpg
+map_Kd ceramicRoof_7.jpg
+
+newmtl CityEngineMaterial_387
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t006_Mercantile_013.jpg
+
+newmtl CityEngineMaterial_15
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_35.jpg
+map_Kd flatRoof_35.jpg
+
+newmtl CityEngineMaterial_69
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_19.jpg
+map_Kd flatRoof_19.jpg
+
+newmtl CityEngineMaterial_181
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Service_007.jpg
+
+newmtl CityEngineMaterial_150
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_15.jpg
+map_Kd flatRoof_15.jpg
+
+newmtl CityEngineMaterial_340
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f004_t002_Agricultural_000.jpg
+
+newmtl CityEngineMaterial_221
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Office_000.jpg
+
+newmtl CityEngineMaterial_252
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Office_001.jpg
+
+newmtl CityEngineMaterial_182
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Service_017.jpg
+
+newmtl CityEngineMaterial_202
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t010_Mercantile_000.jpg
+
+newmtl CityEngineMaterial_40
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t001_Residential_000.jpg
+
+newmtl CityEngineMaterial_320
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_28.jpg
+map_Kd flatRoof_28.jpg
+
+newmtl CityEngineMaterial_382
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t006_Mercantile_010.jpg
+
+newmtl CityEngineMaterial_88
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_8.jpg
+map_Kd flatRoof_8.jpg
+
+newmtl CityEngineMaterial_227
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Office_003.jpg
+
+newmtl CityEngineMaterial_362
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t004_Mercantile_003.jpg
+
+newmtl CityEngineMaterial_233
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_22.jpg
+map_Kd flatRoof_22.jpg
+
+newmtl CityEngineMaterial_179
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t019_Educational_000.jpg
+
+newmtl CityEngineMaterial_342
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f003_t003_Residential_002.jpg
+
+newmtl CityEngineMaterial_225
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_19.jpg
+map_Kd flatRoof_19.jpg
+
+newmtl CityEngineMaterial_345
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f003_t003_Residential_004.jpg
+
+newmtl CityEngineMaterial_13
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t002_Educational_000.jpg
+
+newmtl CityEngineMaterial_208
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_30.jpg
+map_Kd flatRoof_30.jpg
+
+newmtl CityEngineMaterial_53
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f003_t004_Public_000.jpg
+
+newmtl CityEngineMaterial_316
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_31.jpg
+map_Kd flatRoof_31.jpg
+
+newmtl CityEngineMaterial_138
+illum 3
+Ka 0 0 0
+Kd 0.6 0.6 0.6
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_27.jpg
+map_Kd flatRoof_27.jpg
+
+newmtl CityEngineMaterial_180
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t002_Agricultural_001.jpg
+
+newmtl CityEngineMaterial_155
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_15.jpg
+map_Kd flatRoof_15.jpg
+
+newmtl CityEngineMaterial_77
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_20.jpg
+map_Kd flatRoof_20.jpg
+
+newmtl CityEngineMaterial_259
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_13.jpg
+map_Kd flatRoof_13.jpg
+
+newmtl CityEngineMaterial_112
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t003_Industry_000.jpg
+
+newmtl CityEngineMaterial_124
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f002_t003_Agricultural_000.jpg
+
+newmtl CityEngineMaterial_400
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t006_Mercantile_000.jpg
+
+newmtl CityEngineMaterial_57
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_12.jpg
+map_Kd flatRoof_12.jpg
+
+newmtl CityEngineMaterial_310
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t005_Industry_000.jpg
+
+newmtl CityEngineMaterial_109
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t004_Industry_000.jpg
+
+newmtl CityEngineMaterial_295
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_8.jpg
+map_Kd flatRoof_8.jpg
+
+newmtl CityEngineMaterial_277
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t006_Mercantile_002.jpg
+
+newmtl CityEngineMaterial_279
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t006_Mercantile_007.jpg
+
+newmtl CityEngineMaterial_212
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t008_Mercantile_000.jpg
+
+newmtl CityEngineMaterial_376
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t006_Mercantile_004.jpg
+
+newmtl CityEngineMaterial_114
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Mercantile_004.jpg
+
+newmtl CityEngineMaterial_118
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Mercantile_009.jpg
+
+newmtl CityEngineMaterial_56
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Mercantile_027.jpg
+
+newmtl CityEngineMaterial_17
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f001_t002_Residential_009.jpg
+
+newmtl CityEngineMaterial_84
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f001_t002_Residential_010.jpg
+
+newmtl CityEngineMaterial_173
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f014_t007_Public_000.jpg
+
+newmtl CityEngineMaterial_265
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_32.jpg
+map_Kd flatRoof_32.jpg
+
+newmtl CityEngineMaterial_255
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t006_Residential_004.jpg
+
+newmtl CityEngineMaterial_23
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_9.jpg
+map_Kd flatRoof_9.jpg
+
+newmtl CityEngineMaterial_349
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f004_t006_Mercantile_003.jpg
+
+newmtl CityEngineMaterial_335
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f015_t007_Office_000.jpg
+
+newmtl CityEngineMaterial_98
+illum 3
+Ka 0 0 0
+Kd 0.6 0.6 0.6
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_23.jpg
+map_Kd flatRoof_23.jpg
+
+newmtl CityEngineMaterial_262
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t006_Residential_001.jpg
+
+newmtl CityEngineMaterial_339
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t003_Mercantile_004.jpg
+
+newmtl CityEngineMaterial_311
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t004_Mercantile_004.jpg
+
+newmtl CityEngineMaterial_133
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f004_t006_Mercantile_007.jpg
+
+newmtl CityEngineMaterial_12
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f001_t001_Transport_002.jpg
+
+newmtl CityEngineMaterial_313
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t004_Mercantile_015.jpg
+
+newmtl CityEngineMaterial_20
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_39.jpg
+map_Kd flatRoof_39.jpg
+
+newmtl CityEngineMaterial_213
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t007_Mercantile_000.jpg
+
+newmtl CityEngineMaterial_304
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_5.jpg
+map_Kd flatRoof_5.jpg
+
+newmtl CityEngineMaterial_82
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_37.jpg
+map_Kd flatRoof_37.jpg
+
+newmtl CityEngineMaterial_195
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f002_t003_Assembly_000.jpg
+
+newmtl CityEngineMaterial_111
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_32.jpg
+map_Kd flatRoof_32.jpg
+
+newmtl CityEngineMaterial_307
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_29.jpg
+map_Kd flatRoof_29.jpg
+
+newmtl CityEngineMaterial_104
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t001_Mercantile_003.jpg
+
+newmtl CityEngineMaterial_168
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_21.jpg
+map_Kd flatRoof_21.jpg
+
+newmtl CityEngineMaterial_285
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t006_Agricultural_000.jpg
+
+newmtl CityEngineMaterial_281
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t006_Agricultural_001.jpg
+
+newmtl CityEngineMaterial_288
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f004_t006_Industry_002.jpg
+
+newmtl CityEngineMaterial_220
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_28.jpg
+map_Kd flatRoof_28.jpg
+
+newmtl CityEngineMaterial_196
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_14.jpg
+map_Kd flatRoof_14.jpg
+
+newmtl CityEngineMaterial_75
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t009_Service_000.jpg
+
+newmtl CityEngineMaterial_260
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Service_009.jpg
+
+newmtl CityEngineMaterial_367
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t001_Industry_000.jpg
+
+newmtl CityEngineMaterial_315
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_007.jpg
+
+newmtl CityEngineMaterial_211
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_16.jpg
+map_Kd flatRoof_16.jpg
+
+newmtl CityEngineMaterial_343
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t003_Industry_001.jpg
+
+newmtl CityEngineMaterial_25
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_22.jpg
+map_Kd flatRoof_22.jpg
+
+newmtl CityEngineMaterial_108
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_11.jpg
+map_Kd flatRoof_11.jpg
+
+newmtl CityEngineMaterial_41
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_34.jpg
+map_Kd flatRoof_34.jpg
+
+newmtl CityEngineMaterial_323
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_019.jpg
+
+newmtl CityEngineMaterial_70
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_030.jpg
+
+newmtl CityEngineMaterial_309
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f004_t002_Transport_000.jpg
+
+newmtl CityEngineMaterial_357
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f003_t003_Educational_000.jpg
+
+newmtl CityEngineMaterial_383
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t006_Office_001.jpg
+
+newmtl CityEngineMaterial_364
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f003_t003_Educational_001.jpg
+
+newmtl CityEngineMaterial_21
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Mercantile_003.jpg
+
+newmtl CityEngineMaterial_222
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_12.jpg
+map_Kd flatRoof_12.jpg
+
+newmtl CityEngineMaterial_44
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f001_t002_Residential_002.jpg
+
+newmtl CityEngineMaterial_318
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t003_Mercantile_011.jpg
+
+newmtl CityEngineMaterial_404
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd asphalt_14x14m.jpg
+
+newmtl CityEngineMaterial_91
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f001_t002_Residential_000.jpg
+
+newmtl CityEngineMaterial_96
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f001_t002_Residential_001.jpg
+
+newmtl CityEngineMaterial_128
+illum 3
+Ka 0 0 0
+Kd 0.6 0.6 0.6
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_26.jpg
+map_Kd flatRoof_26.jpg
+
+newmtl CityEngineMaterial_199
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f001_t001_Residential_000.jpg
+
+newmtl CityEngineMaterial_116
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t001_Mercantile_002.jpg
+
+newmtl CityEngineMaterial_101
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t001_Mercantile_006.jpg
+
+newmtl CityEngineMaterial_215
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Service_003.jpg
+
+newmtl CityEngineMaterial_300
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t004_Mercantile_004.jpg
+
+newmtl CityEngineMaterial_159
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t001_Mercantile_009.jpg
+
+newmtl CityEngineMaterial_194
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_015.jpg
+
+newmtl CityEngineMaterial_50
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_13.jpg
+map_Kd flatRoof_13.jpg
+
+newmtl CityEngineMaterial_396
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f005_t009_Industry_001.jpg
+
+newmtl CityEngineMaterial_170
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_4.jpg
+map_Kd flatRoof_4.jpg
+
+newmtl CityEngineMaterial_130
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f003_t003_Residential_005.jpg
+
+newmtl CityEngineMaterial_290
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f002_t002_Residential_010.jpg
+
+newmtl CityEngineMaterial_278
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_12.jpg
+map_Kd flatRoof_12.jpg
+
+newmtl CityEngineMaterial_134
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 ceramicRoof_1.jpg
+map_Kd ceramicRoof_1.jpg
+
+newmtl CityEngineMaterial_201
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t003_Residential_001.jpg
+
+newmtl CityEngineMaterial_18
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 ceramicRoof_4.jpg
+map_Kd ceramicRoof_4.jpg
+
+newmtl CityEngineMaterial_359
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f016_t008_Office_000.jpg
+
+newmtl CityEngineMaterial_200
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_16.jpg
+map_Kd flatRoof_16.jpg
+
+newmtl CityEngineMaterial_284
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t003_Assembly_000.jpg
+
+newmtl CityEngineMaterial_38
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t001_Mercantile_007.jpg
+
+newmtl CityEngineMaterial_86
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Educational_000.jpg
+
+newmtl CityEngineMaterial_249
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Mercantile_000.jpg
+
+newmtl CityEngineMaterial_369
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t008_Public_000.jpg
+
+newmtl CityEngineMaterial_237
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_2.jpg
+map_Kd flatRoof_2.jpg
+
+newmtl CityEngineMaterial_120
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t014_Industry_000.jpg
+
+newmtl CityEngineMaterial_261
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_18.jpg
+map_Kd flatRoof_18.jpg
+
+newmtl CityEngineMaterial_337
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t006_Residential_007.jpg
+
+newmtl CityEngineMaterial_163
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t003_Residential_012.jpg
+
+newmtl CityEngineMaterial_129
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t004_Mercantile_011.jpg
+
+newmtl CityEngineMaterial_105
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Mercantile_006.jpg
+
+newmtl CityEngineMaterial_135
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t004_Mercantile_013.jpg
+
+newmtl CityEngineMaterial_246
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t001_Mercantile_008.jpg
+
+newmtl CityEngineMaterial_188
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_11.jpg
+map_Kd flatRoof_11.jpg
+
+newmtl CityEngineMaterial_395
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f006_t004_Industry_000.jpg
+
+newmtl CityEngineMaterial_390
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_29.jpg
+map_Kd flatRoof_29.jpg
+
+newmtl CityEngineMaterial_375
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t006_Residential_006.jpg
+
+newmtl CityEngineMaterial_126
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t006_Educational_000.jpg
+
+newmtl CityEngineMaterial_39
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_33.jpg
+map_Kd flatRoof_33.jpg
+
+newmtl CityEngineMaterial_71
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_17.jpg
+map_Kd flatRoof_17.jpg
+
+newmtl CityEngineMaterial_142
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t009_Mercantile_000.jpg
+
+newmtl CityEngineMaterial_171
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t022_Educational_000.jpg
+
+newmtl CityEngineMaterial_43
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_32.jpg
+map_Kd flatRoof_32.jpg
+
+newmtl CityEngineMaterial_271
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t004_Educational_001.jpg
+
+newmtl CityEngineMaterial_119
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_1.jpg
+map_Kd flatRoof_1.jpg
+
+newmtl CityEngineMaterial_273
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_34.jpg
+map_Kd flatRoof_34.jpg
+
+newmtl CityEngineMaterial_87
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f001_t002_Residential_014.jpg
+
+newmtl CityEngineMaterial_149
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_018.jpg
+
+newmtl CityEngineMaterial_54
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_9.jpg
+map_Kd flatRoof_9.jpg
+
+newmtl CityEngineMaterial_165
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_4.jpg
+map_Kd flatRoof_4.jpg
+
+newmtl CityEngineMaterial_63
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_3.jpg
+map_Kd flatRoof_3.jpg
+
+newmtl CityEngineMaterial_29
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_13.jpg
+map_Kd flatRoof_13.jpg
+
+newmtl CityEngineMaterial_361
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t006_Mercantile_008.jpg
+
+newmtl CityEngineMaterial_32
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Mercantile_008.jpg
+
+newmtl CityEngineMaterial_22
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f002_t002_Residential_012.jpg
+
+newmtl CityEngineMaterial_393
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f007_t007_Residential_000.jpg
+
+newmtl CityEngineMaterial_267
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_005.jpg
+
+newmtl CityEngineMaterial_52
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Mercantile_005.jpg
+
+newmtl CityEngineMaterial_254
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_36.jpg
+map_Kd flatRoof_36.jpg
+
+newmtl CityEngineMaterial_229
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_13.jpg
+map_Kd flatRoof_13.jpg
+
+newmtl CityEngineMaterial_51
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Other_000.jpg
+
+newmtl CityEngineMaterial_401
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t004_Mercantile_002.jpg
+
+newmtl CityEngineMaterial_301
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t003_Service_001.jpg
+
+newmtl CityEngineMaterial_231
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f002_t002_Residential_003.jpg
+
+newmtl CityEngineMaterial_49
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f004_t006_Industry_006.jpg
+
+newmtl CityEngineMaterial_327
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t004_Unknown_000.jpg
+
+newmtl CityEngineMaterial_205
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_35.jpg
+map_Kd flatRoof_35.jpg
+
+newmtl CityEngineMaterial_243
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f003_t004_Residential_001.jpg
+
+newmtl CityEngineMaterial_389
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_35.jpg
+map_Kd flatRoof_35.jpg
+
+newmtl CityEngineMaterial_358
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f015_t011_Residential_001.jpg
+
+newmtl CityEngineMaterial_391
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f005_t006_Mercantile_003.jpg
+
+newmtl CityEngineMaterial_8
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_027.jpg
+
+newmtl CityEngineMaterial_336
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_37.jpg
+map_Kd flatRoof_37.jpg
+
+newmtl CityEngineMaterial_156
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Mercantile_013.jpg
+
+newmtl CityEngineMaterial_4
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f001_t002_Transport_000.jpg
+
+newmtl CityEngineMaterial_192
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t005_Educational_000.jpg
+
+newmtl CityEngineMaterial_197
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_022.jpg
+
+newmtl CityEngineMaterial_172
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f004_t001_Residential_000.jpg
+
+newmtl CityEngineMaterial_377
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Office_004.jpg
+
+newmtl CityEngineMaterial_206
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t006_Residential_002.jpg
+
+newmtl CityEngineMaterial_282
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t006_Residential_003.jpg
+
+newmtl CityEngineMaterial_83
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t004_Mercantile_014.jpg
+
+newmtl CityEngineMaterial_328
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f004_t006_Educational_000.jpg
+
+newmtl CityEngineMaterial_24
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t002_Mercantile_000.jpg
+
+newmtl CityEngineMaterial_210
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_024.jpg
+
+newmtl CityEngineMaterial_257
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t004_Mercantile_001.jpg
+
+newmtl CityEngineMaterial_31
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f002_t003_Mercantile_000.jpg
+
+newmtl CityEngineMaterial_365
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_11.jpg
+map_Kd flatRoof_11.jpg
+
+newmtl CityEngineMaterial_331
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t003_Mercantile_010.jpg
+
+newmtl CityEngineMaterial_321
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_14.jpg
+map_Kd flatRoof_14.jpg
+
+newmtl CityEngineMaterial_193
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_7.jpg
+map_Kd flatRoof_7.jpg
+
+newmtl CityEngineMaterial_368
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f003_t001_Assembly_000.jpg
+
+newmtl CityEngineMaterial_190
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_1.jpg
+map_Kd flatRoof_1.jpg
+
+newmtl CityEngineMaterial_139
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Mercantile_002.jpg
+
+newmtl CityEngineMaterial_256
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_31.jpg
+map_Kd flatRoof_31.jpg
+
+newmtl CityEngineMaterial_380
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Service_002.jpg
+
+newmtl CityEngineMaterial_297
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Service_016.jpg
+
+newmtl CityEngineMaterial_144
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Office_007.jpg
+
+newmtl CityEngineMaterial_272
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_4.jpg
+map_Kd flatRoof_4.jpg
+
+newmtl CityEngineMaterial_76
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f001_t001_Agricultural_000.jpg
+
+newmtl CityEngineMaterial_152
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_15.jpg
+map_Kd flatRoof_15.jpg
+
+newmtl CityEngineMaterial_85
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_6.jpg
+map_Kd flatRoof_6.jpg
+
+newmtl CityEngineMaterial_99
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t009_Transport_000.jpg
+
+newmtl CityEngineMaterial_353
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Service_012.jpg
+
+newmtl CityEngineMaterial_289
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Mercantile_021.jpg
+
+newmtl CityEngineMaterial_1
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f001_t002_Residential_008.jpg
+
+newmtl CityEngineMaterial_47
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_14.jpg
+map_Kd flatRoof_14.jpg
+
+newmtl CityEngineMaterial_26
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f001_t001_Mercantile_000.jpg
+
+newmtl CityEngineMaterial_294
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Mercantile_026.jpg
+
+newmtl CityEngineMaterial_372
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Mercantile_020.jpg
+
+newmtl CityEngineMaterial_92
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t005_Public_000.jpg
+
+newmtl CityEngineMaterial_379
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Mercantile_015.jpg
+
+newmtl CityEngineMaterial_402
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f005_t006_Assembly_000.jpg
+
+newmtl CityEngineMaterial_121
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f002_t001_Industry_000.jpg
+
+newmtl CityEngineMaterial_374
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t007_Public_000.jpg
+
+newmtl CityEngineMaterial_276
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t003_Mercantile_015.jpg
+
+newmtl CityEngineMaterial_131
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_5.jpg
+map_Kd flatRoof_5.jpg
+
+newmtl CityEngineMaterial_244
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_3.jpg
+map_Kd flatRoof_3.jpg
+
+newmtl CityEngineMaterial_90
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_28.jpg
+map_Kd flatRoof_28.jpg
+
+newmtl CityEngineMaterial_145
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t006_Residential_000.jpg
+
+newmtl CityEngineMaterial_258
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_40.jpg
+map_Kd flatRoof_40.jpg
+
+newmtl CityEngineMaterial_275
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Mercantile_011.jpg
+
+newmtl CityEngineMaterial_384
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f008_t004_Educational_000.jpg
+
+newmtl CityEngineMaterial_348
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Service_006.jpg
+
+newmtl CityEngineMaterial_332
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Service_004.jpg
+
+newmtl CityEngineMaterial_37
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_10.jpg
+map_Kd flatRoof_10.jpg
+
+newmtl CityEngineMaterial_132
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t003_Mercantile_000.jpg
+
+newmtl CityEngineMaterial_302
+illum 3
+Ka 0 0 0
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_31.jpg
+map_Kd flatRoof_31.jpg
+
+newmtl CityEngineMaterial_103
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Mercantile_014.jpg
+
+newmtl CityEngineMaterial_356
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_1.jpg
+map_Kd flatRoof_1.jpg
+
+newmtl CityEngineMaterial_48
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_003.jpg
+
+newmtl CityEngineMaterial_45
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Residential_016.jpg
+
+newmtl CityEngineMaterial_167
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t021_Residential_000.jpg
+
+newmtl CityEngineMaterial_347
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f004_t006_Assembly_000.jpg
+
+newmtl CityEngineMaterial_303
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t004_Mercantile_009.jpg
+
+newmtl CityEngineMaterial_360
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t004_Mercantile_008.jpg
+
+newmtl CityEngineMaterial_324
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t004_Mercantile_007.jpg
+
+newmtl CityEngineMaterial_322
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t007_Mercantile_001.jpg
+
+newmtl CityEngineMaterial_346
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t002_Assembly_000.jpg
+
+newmtl CityEngineMaterial_344
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t004_Mercantile_000.jpg
+
+newmtl CityEngineMaterial_106
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t006_Mercantile_025.jpg
+
+newmtl CityEngineMaterial_68
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f001_t002_Utility_007.jpg
+
+newmtl CityEngineMaterial_125
+illum 3
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_14.jpg
+map_Kd flatRoof_14.jpg
+
+newmtl CityEngineMaterial_286
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_22.jpg
+map_Kd flatRoof_22.jpg
+
+newmtl CityEngineMaterial_198
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t003_Transport_001.jpg
+
+newmtl CityEngineMaterial_266
+illum 3
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 flatRoof_21.jpg
+map_Kd flatRoof_21.jpg
+
+newmtl CityEngineMaterial_385
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_f011_t004_Residential_000.jpg
+
+newmtl CityEngineMaterial_270
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t003_Mercantile_004.jpg
+
+newmtl CityEngineMaterial_378
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t003_Mercantile_001.jpg
+
+newmtl CityEngineMaterial_219
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t006_Mercantile_006.jpg
+
+newmtl CityEngineMaterial_224
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t005_Educational_000.jpg
+
+newmtl CityEngineMaterial_72
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f001_t005_Industry_001.jpg
+
+newmtl CityEngineMaterial_166
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd g_f002_t004_Mercantile_000.jpg
+

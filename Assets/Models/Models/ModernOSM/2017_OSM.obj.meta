@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: a8bb91d58a15a734480c5c76d3a1ef0b
+timeCreated: 1491638895
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Board
+    100004: Bridge
+    100006: Building
+    100008: BuildingEntrance
+    100010: BusStop
+    100012: Forest
+    100014: Hedge
+    100016: PoleFence
+    100018: Rail
+    100020: RetainingWall
+    100022: RiverJunction
+    100024: Road
+    100026: RoadArea
+    100028: RoadConnector
+    100030: RoadCrossingAtConnector
+    100032: RoadJunction
+    100034: SurfaceArea
+    100036: SurfaceParking
+    100038: Tree
+    100040: Tunnel
+    100042: Wall
+    100044: Water
+    100046: Waterway
+    400000: //RootNode
+    400002: Board
+    400004: Bridge
+    400006: Building
+    400008: BuildingEntrance
+    400010: BusStop
+    400012: Forest
+    400014: Hedge
+    400016: PoleFence
+    400018: Rail
+    400020: RetainingWall
+    400022: RiverJunction
+    400024: Road
+    400026: RoadArea
+    400028: RoadConnector
+    400030: RoadCrossingAtConnector
+    400032: RoadJunction
+    400034: SurfaceArea
+    400036: SurfaceParking
+    400038: Tree
+    400040: Tunnel
+    400042: Wall
+    400044: Water
+    400046: Waterway
+    2300000: Board
+    2300002: Bridge
+    2300004: Building
+    2300006: BuildingEntrance
+    2300008: BusStop
+    2300010: Forest
+    2300012: Hedge
+    2300014: PoleFence
+    2300016: Rail
+    2300018: RetainingWall
+    2300020: RiverJunction
+    2300022: Road
+    2300024: RoadArea
+    2300026: RoadConnector
+    2300028: RoadCrossingAtConnector
+    2300030: RoadJunction
+    2300032: SurfaceArea
+    2300034: SurfaceParking
+    2300036: Tree
+    2300038: Tunnel
+    2300040: Wall
+    2300042: Water
+    2300044: Waterway
+    3300000: Board
+    3300002: Bridge
+    3300004: Building
+    3300006: BuildingEntrance
+    3300008: BusStop
+    3300010: Forest
+    3300012: Hedge
+    3300014: PoleFence
+    3300016: Rail
+    3300018: RetainingWall
+    3300020: RiverJunction
+    3300022: Road
+    3300024: RoadArea
+    3300026: RoadConnector
+    3300028: RoadCrossingAtConnector
+    3300030: RoadJunction
+    3300032: SurfaceArea
+    3300034: SurfaceParking
+    3300036: Tree
+    3300038: Tunnel
+    3300040: Wall
+    3300042: Water
+    3300044: Waterway
+    4300000: Board
+    4300002: Bridge
+    4300004: Building
+    4300006: BuildingEntrance
+    4300008: BusStop
+    4300010: Forest
+    4300012: Hedge
+    4300014: PoleFence
+    4300016: Rail
+    4300018: RetainingWall
+    4300020: RiverJunction
+    4300022: Road
+    4300024: RoadArea
+    4300026: RoadConnector
+    4300028: RoadCrossingAtConnector
+    4300030: RoadJunction
+    4300032: SurfaceArea
+    4300034: SurfaceParking
+    4300036: Tree
+    4300038: Tunnel
+    4300040: Wall
+    4300042: Water
+    4300044: Waterway
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
