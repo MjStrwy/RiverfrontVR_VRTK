@@ -75,6 +75,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\ArmSwinger-master\scripts\ArmSwinger.cs" />
+    <Compile Include="Assets\ArmSwinger-master\scripts\HeadsetCollider.cs" />
     <Compile Include="Assets\Show1884.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_GazeTracker.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_LaserPointer.cs" />
